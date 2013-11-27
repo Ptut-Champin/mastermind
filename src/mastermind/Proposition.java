@@ -2,8 +2,10 @@ package mastermind;
 import java.io.*;
 
 public class Proposition {
-    proposersolution(marqueur[]){
-if cpt==0
+    tab[] proposersolution(marqueur[], cpt)
+    {
+        if (cpt==0)
+        { 
 	//toutes les valeurs du tab sont rand%6
 else
 	//boucle pour chaque case
